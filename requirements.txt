@@ -1,0 +1,8 @@
+# Hermes Agent framework (installed as a Python library, straight from GitHub)
+hermes-agent @ git+https://github.com/NousResearch/hermes-agent.git
+
+# Apify API client (for scraping the Meta Ads Library)
+apify-client>=1.6
+
+# Loads the .env file into environment variables
+python-dotenv>=1.0
